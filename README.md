@@ -24,9 +24,9 @@ In the following challenge overview writeup links will be provided for the chall
 - American (150pt)
 - Hue is This? (170pt)
 - Alien Dream (100pt)
-- [**Limo (190pt)**]()
-- [**Follow Avis (280pt)**]()
-- [**Chat  gram (420pt)**]()
+- [**Limo (190pt)**](https://github.com/greedpanda/ez-ctf-2022/blob/main/writeups/limo.md)
+- [**Follow Avis (280pt)**](https://github.com/greedpanda/ez-ctf-2022/blob/main/writeups/follow-avis.md)
+- [**Chat  gram (420pt)**](https://github.com/greedpanda/ez-ctf-2022/blob/main/writeups/chat-gram.md)
 ### Crypto
 - [**More Sense (60pt)**]()
 - McFly (125pt)
