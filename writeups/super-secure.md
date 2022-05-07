@@ -1,6 +1,6 @@
 # Super Secure
 
-<p align="center"><img src="https://github.com/greedpanda/ez-ctf-2022/blob/main/assets/Super-Secure.jpg"/></p>
+<p align="center"><img src="https://github.com/greedpanda/ez-ctf-2022/blob/main/assets/challenge-cards/Super-Secure.jpg"/></p>
 
 ## Writeup
 
