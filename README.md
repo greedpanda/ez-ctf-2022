@@ -17,7 +17,7 @@ In the following challenge overview writeup links will be provided for the chall
 - Digital Ocean (50pt)
 ### Web
 - [**Super Secure (100pt)**](https://github.com/greedpanda/ez-ctf-2022/blob/main/writeups/super-secure.md)
-- [**I made a blog! (150pt)**]()
+- [**I made a blog! (150pt)**](https://github.com/greedpanda/ez-ctf-2022/blob/main/writeups/i-made-a-blog.md)
 - **~~Race #1 (200pt)~~**
 - **~~Race #2 (300pt)~~** 
 ### Osint
