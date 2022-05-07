@@ -1,13 +1,10 @@
 # CTF-EzCTF2022
 
 ## Final Result:
-<p align="center"><img src="https://github.com/greedpanda/greedpanda/blob/main/assets/DonutClubSquareSmall.png" width="300"/></p>
-
-<p align="center"><img src="https://github.com/greedpanda/greedpanda/blob/main/assets/team-result.png"/></p>
-
-<p align="center"><img src="https://github.com/greedpanda/greedpanda/blob/main/assets/user-result.png"/></p>
-
-<p align="center"><img src="https://github.com/greedpanda/greedpanda/blob/main/assets/Profile-card.jpg"/></p>
+<p align="center"><img src="https://github.com/greedpanda/ez-ctf-2022/blob/main/assets/DonutClubSquareSmall.png" width="300"/></p>
+<p align="center"><img src="https://github.com/greedpanda/ez-ctf-2022/blob/main/assets/team-result.png"/></p>
+<p align="center"><img src="https://github.com/greedpanda/ez-ctf-2022/blob/main/assets/Profile-card.jpg"/></p>
+<p align="center"><img src="https://github.com/greedpanda/ez-ctf-2022/blob/main/assets/user-result.png"/></p>
 
 <em>At the beginning of the event the organizers had to shut down two challenges and give away the respective flags (Race #1 and Race #2).
 Hence, 500pt were collected without actually facing a challenge.
