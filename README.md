@@ -16,7 +16,7 @@ In the following challenge overview writeup links will be provided for the chall
   ### Forensics
 - Digital Ocean (50pt)
 ### Web
-- [**Super Secure (100pt)**]()
+- [**Super Secure (100pt)**](https://github.com/greedpanda/ez-ctf-2022/blob/main/writeups/super-secure.md)
 - [**I made a blog! (150pt)**]()
 - **~~Race #1 (200pt)~~**
 - **~~Race #2 (300pt)~~** 
