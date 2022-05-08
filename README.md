@@ -28,9 +28,9 @@ In the following challenge overview writeup links will be provided for the chall
 - [**Follow Avis (280pt)**](https://github.com/greedpanda/ez-ctf-2022/blob/main/writeups/follow-avis.md)
 - [**Chat  gram (420pt)**](https://github.com/greedpanda/ez-ctf-2022/blob/main/writeups/chat-gram.md)
 ### Crypto
-- [**More Sense (60pt)**]()
+- [**More Sense (60pt)**](https://github.com/greedpanda/ez-ctf-2022/blob/main/writeups/more-sense.md)
 - McFly (125pt)
-- [**No Kidding (70pt)**]()
+- [**No Kidding (70pt)**]((https://github.com/greedpanda/ez-ctf-2022/blob/main/writeups/no-kidding.md))
 - OMG (80pt)
 - Slow Slow Slow (240pt)
 - Share a Key (450pt)
@@ -43,7 +43,7 @@ In the following challenge overview writeup links will be provided for the chall
 - Save peach! (300pt)
 ### Steganography
 - Bernie (125pt)
-- [**Neo (150pt)**]()
+- [**Neo (150pt)**]((https://github.com/greedpanda/ez-ctf-2022/blob/main/writeups/neo.md))
 - Nobody's perfect (210pt)
 - Skyline (200pt)
 ### Misc
