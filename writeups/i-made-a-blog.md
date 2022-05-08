@@ -36,7 +36,7 @@ The vulnerability faced is a combination of [A01:2021 – Broken Access Control]
 
 Starting from the `/robots.txt` file, that tells search engine crawlers which URLs the crawler can access on your site. This is used mainly to avoid overloading your site with requests; it is not a mechanism for keeping a web page out of Google. To keep a web page out of Google, block indexing with `noindex` or password-protect the page.
 
-Regarding LFI there are a few ways to prevent LFI attacks:
+Regarding LFI there are a few ways to prevent attacks:
 - ID assignation: saving your file paths in a secure database and giving an ID for every single one, this way users only get to see their ID without viewing or altering the path.
 - Whitelisting: using verified and secured whitelist files and ignore everything else.
 - Use databases: do not include files on a web server that can be compromised, use a database instead.
