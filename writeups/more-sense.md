@@ -1,4 +1,4 @@
-# More Sense
+# [Crypto] More Sense
 
 <p align="center"><img src="https://github.com/greedpanda/ez-ctf-2022/blob/main/assets/challenge-cards/More-sense.jpg"/></p>
 

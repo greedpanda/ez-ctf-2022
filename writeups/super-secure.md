@@ -1,4 +1,4 @@
-# Super Secure
+# [Web] Super Secure
 
 <p align="center"><img src="https://github.com/greedpanda/ez-ctf-2022/blob/main/assets/challenge-cards/Super-Secure.jpg"/></p>
 
@@ -7,11 +7,13 @@
 The web address provided returns the login page to the super safe website.
 
 <p align="center"><img src="https://github.com/greedpanda/ez-ctf-2022/blob/main/assets/super-secure0.png"/></p>
+<br/><br/>
 
 Since the hint provided is `Did you get your Covid Injection?`, the first thing to try is inserting `'` in both the field.
 The page returned is the following:
 
 <p align="center"><img src="https://github.com/greedpanda/ez-ctf-2022/blob/main/assets/super-secure1.png"/></p>
+<br/><br/>
 
 Hence, it is possible to understand that I am dealing with a MySQL database where injection is possible. 
 

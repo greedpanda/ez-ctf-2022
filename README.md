@@ -11,9 +11,9 @@ Hence, 500pt were collected without actually facing a challenge.
 
 In the following challenge overview writeup links will be provided for the challenges that I have solved.</em>
 
-## Challenge overview:
+## Challenges:
 
-  ### Forensics
+### Forensics
 - Digital Ocean (50pt)
 ### Web
 - [**Super Secure (100pt)**](https://github.com/greedpanda/ez-ctf-2022/blob/main/writeups/super-secure.md)

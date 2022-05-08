@@ -1,4 +1,4 @@
-# Follow Avis
+# [Osint] Follow Avis
 
 <p align="center"><img src="https://github.com/greedpanda/ez-ctf-2022/blob/main/assets/challenge-cards/Follow-Avis.jpg"/></p>
 

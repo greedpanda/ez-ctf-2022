@@ -1,4 +1,4 @@
-# No Kidding
+# [Crypto] No Kidding
 
 <p align="center"><img src="https://github.com/greedpanda/ez-ctf-2022/blob/main/assets/challenge-cards/No-kidding.jpg"/></p>
 

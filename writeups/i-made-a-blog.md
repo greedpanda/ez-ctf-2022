@@ -1,4 +1,4 @@
-# I made a blog!
+# [Web] I made a blog!
 
 <p align="center"><img src="https://github.com/greedpanda/ez-ctf-2022/blob/main/assets/challenge-cards/I-made-a-blog.jpg"/></p>
 
@@ -7,14 +7,17 @@
 The web address provided returns the web page to the blog.
 
 <p align="center"><img src="https://github.com/greedpanda/ez-ctf-2022/blob/main/assets/blog1.png"/></p>
+<br/><br/>
 
 Since the hint provided is `robots will rule the world!`, the first thing to try is navigate to `/robots.txt` where it is possible to find the following:
 
 <img src="https://github.com/greedpanda/ez-ctf-2022/blob/main/assets/blog2.png" width="500px" />
+<br/><br/>
 
 Hence, navigate to `/flag.php` address to find: 
 
 <img src="https://github.com/greedpanda/ez-ctf-2022/blob/main/assets/blog3.png" width="500px" />
+<br/><br/>
 
 Given that the site uses **PHP**, the word filter found above suggested a **Local File Inclusion (LFI)** vulnerability of the type `php://filter`.
 Therefore, navigating to the Blog page and inserting `http://ez.ctf.cafe:9999/blog-posts.php?file=php://filter/convert.base64-encode/resource=flag.php` produces the base64 encoded text at the top of the rendered page. Decoding the string with the following commands provides the flag for the challenge.

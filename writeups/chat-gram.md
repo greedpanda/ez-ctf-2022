@@ -1,4 +1,4 @@
-# Chat  gram
+# [Osint] Chat  gram
 
 <p align="center"><img src="https://github.com/greedpanda/ez-ctf-2022/blob/main/assets/challenge-cards/Chat-gram.jpg"/></p>
 

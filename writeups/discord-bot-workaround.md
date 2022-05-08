@@ -1,4 +1,4 @@
-# Discord Bot Workaround
+# [Misc] Discord Bot Workaround
 
 <p align="center"><img src="https://github.com/greedpanda/ez-ctf-2022/blob/main/assets/challenge-cards/Discord-bot-workaround.jpg"/></p>
 
