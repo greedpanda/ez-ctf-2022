@@ -30,7 +30,7 @@ In the following challenge overview writeup links will be provided for the chall
 ### Crypto
 - [**More Sense (60pt)**](https://github.com/greedpanda/ez-ctf-2022/blob/main/writeups/more-sense.md)
 - McFly (125pt)
-- [**No Kidding (70pt)**]((https://github.com/greedpanda/ez-ctf-2022/blob/main/writeups/no-kidding.md))
+- [**No Kidding (70pt)**](https://github.com/greedpanda/ez-ctf-2022/blob/main/writeups/no-kidding.md)
 - OMG (80pt)
 - Slow Slow Slow (240pt)
 - Share a Key (450pt)
@@ -43,12 +43,12 @@ In the following challenge overview writeup links will be provided for the chall
 - Save peach! (300pt)
 ### Steganography
 - Bernie (125pt)
-- [**Neo (150pt)**]((https://github.com/greedpanda/ez-ctf-2022/blob/main/writeups/neo.md))
+- [**Neo (150pt)**](https://github.com/greedpanda/ez-ctf-2022/blob/main/writeups/neo.md)
 - Nobody's perfect (210pt)
 - Skyline (200pt)
 ### Misc
 - Sax it Up! (70pt)
-- [**Discord Bot Workaround (100pt)**]()
-- [**Just the two of us (150pt)**]()
+- [**Discord Bot Workaround (100pt)**](https://github.com/greedpanda/ez-ctf-2022/blob/main/writeups/discord-bot-workaround.md)
+- [**Just the two of us (150pt)**](https://github.com/greedpanda/ez-ctf-2022/blob/main/writeups/just-the-2-of-us.md)
 - Wavie Wave (200pt)
-- [**Grandma (350pt)**]()
+- [**Grandma (350pt)**](https://github.com/greedpanda/ez-ctf-2022/blob/main/writeups/grandma.md)
