@@ -1,4 +1,4 @@
-# CTF-EzCTF2022
+# [CTF-EzCTF2022](https://ez.ctf.cafe)
 
 ## Final Result:
 <p align="center"><img src="https://github.com/greedpanda/ez-ctf-2022/blob/main/assets/DonutClubSquareSmall.png" width="300"/></p>
